@@ -122,8 +122,8 @@ body {
 .panel {
   min-height: 100vh;
   display: flex;
-  align-items: center;
-  padding: 60px 64px;
+  align-items: flex-start;
+  padding: 100px 64px;
 }
 
 .panel.dark {
